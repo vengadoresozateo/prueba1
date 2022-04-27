@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
 
     //cargado
     //logo
+    //logo15
+    //logo16
     //logoMartin
     //logoMartin2
 }
