@@ -14,6 +14,5 @@ class MainActivity : AppCompatActivity() {
     //logo15
     //logo16
     //logoMartin
-    //logoMartin2
     //logoMartin3
 }
